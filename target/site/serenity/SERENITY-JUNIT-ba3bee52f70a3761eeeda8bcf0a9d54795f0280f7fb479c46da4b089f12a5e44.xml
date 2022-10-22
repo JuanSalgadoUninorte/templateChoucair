@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Academy Choucair" skipped="0" tests="1" time="1.81" timestamp="2022-10-21 04:11:21"><testcase name="Search for a automation course"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+co.com.choucair.certification.proyectobase.stepdefinitions.ChoucairAcademyStepDefinitions.thanBrandonWantsToLearnAutomationAtTheAcademyChoucair(ChoucairAcademyStepDefinitions.java:19)&#13;
+✽.than brandon wants to learn automation at the academy Choucair(src/test/resources/features/academyChoucair.feature:7)&#13;
+</system-err></testcase></testsuite>
